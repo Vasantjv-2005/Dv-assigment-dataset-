@@ -27,9 +27,9 @@ The dataset used in this project contains information about students, including:
 The dataset consists of approximately **60–80 records**, fulfilling the assignment requirement.
 
 ---
+# Dataset 
+[student_performance.xlsx](https://github.com/user-attachments/files/26794434/student_performance.xlsx)
 
-## [Uploading student_performance.csv…]()
- Visualizations Created
 
 ### 1. Bar Chart – Average Final Score by Gender
 
